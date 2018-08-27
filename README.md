@@ -6,7 +6,7 @@
 ## Lesson One
     
 ### Parent
-- create a new folder called **lesson-1**
+- create a new folder called **lesson-1** and copy all content from [here](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/tree/master/lesson-1)
 - Open **Visual Studio Code** -> File -> Open -> select **lesson-1** folder
 - Open **index.html** file in editor     
 - Tell the child about definitions of HTML and CSS, what is DIV (small unit, block), what is class (style, color, look).
