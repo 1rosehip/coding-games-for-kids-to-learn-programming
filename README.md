@@ -8,7 +8,8 @@
 ### Parent
 - create a new folder called **lesson-1** and copy all content from [here](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/tree/master/lesson-1)
 - Open **Visual Studio Code** -> File -> Open -> select **lesson-1** folder
-- Open **index.html** file in editor     
+- Open **index.html** file in editor 
+- Right click -> View in browser    
 - Tell the child about definitions of HTML and CSS, what is DIV (small unit, block), what is class (style, color, look).
 - Tell about 3 colors that can be changed in the styles: border, text and background color.
 - Tell about width and height of the DIV.
