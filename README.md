@@ -3,8 +3,8 @@
 ## Tools
 - [Visual Studio Code Editor](https://code.visualstudio.com/) - free, open source, cross platform
 
-## Lesson One
-![Lesson One](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-1/lesson-1.png "Lesson One")
+## Lesson 1
+![Lesson 1](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-1/lesson-1.png "Lesson 1")
     
 ### Parent
 - create a new folder called **lesson-1** and copy all content from [here](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/tree/master/lesson-1)
@@ -25,6 +25,25 @@ and text blue
 - Change width to be as page width
 - Change height to be as page height
 - Change game title and its color to the favorite kid's game name and color
-- Ask the kids to create a game scene with colors and width / height as they want
+- Ask the kids to create a game stage with colors and width / height as they want
 
- 
+## Lesson 2
+Kid should create a person inside a game stage.
+
+### Kid Tasks
+- Create a DIV inside the game stage
+- Add it a class **person**
+- Go to css and copy all styles from **.game-1**
+- Change width and height to be 30px
+- Change border and background colors as kid wants
+
+### Parent
+- Tell the kid about absolute position and top / left / right / bottom properties
+- Add top: 10px; left: 40px; position: absolute; to CSS
+
+### Kid Tasks
+- Move the person to the right top corner
+- Move the person to the right bottom corner
+- Move the person to the left bottom corner
+- Move the person to tht left top corner
+- Move the person to the center  

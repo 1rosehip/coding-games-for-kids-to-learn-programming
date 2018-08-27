@@ -21,3 +21,17 @@ h1{
     background: #eee;
     position: relative;
 }
+
+.person{
+    border: 1px solid #bd67ff;
+    width: 30px;
+    height: 30px;
+    margin: auto;
+    text-align: center;
+    color: #5b35ff;
+    background: #6fee89;
+
+    top: 10px;
+    left: 40px;
+    position: absolute;
+}
