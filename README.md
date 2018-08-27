@@ -6,6 +6,6 @@
 ## Lesson One
     
 ### Parent
-    - create a new folder called **lesson-1**
-    - Open **visual studio code** -> File -> Open -> select **lesson-1** folder
-    - Opne **index.html** file in editor     
+- create a new folder called **lesson-1**
+- Open **visual studio code** -> File -> Open -> select **lesson-1** folder
+- Opne **index.html** file in editor     
