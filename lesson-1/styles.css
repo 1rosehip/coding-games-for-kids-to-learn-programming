@@ -1,3 +1,8 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
 .game-1{
     border: 1px solid #000;
     width: 300px;

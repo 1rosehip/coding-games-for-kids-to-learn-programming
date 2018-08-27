@@ -23,6 +23,7 @@ and text blue
 - Change width and height to be very large (1000px, 2000px, 300px)
 - Change width to be as page width
 - Change height to be as page height
+- Change game title and its color to the favorite kid's game name and color
 - Ask the kids to create a game scene with colors and width / height as they want
 
  
