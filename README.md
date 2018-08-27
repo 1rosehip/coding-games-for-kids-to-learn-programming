@@ -29,6 +29,7 @@ and text blue
 
 ## Lesson 2
 Kid should create a person inside a game stage.
+![Lesson 2](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-2/lesson-2.png "Lesson 2")
 
 ### Kid Tasks
 - Create a DIV inside the game stage
