@@ -9,7 +9,7 @@ This course is intended for kids 8+ years old that with help of their parents wi
 - [Visual Studio Code Editor](https://code.visualstudio.com/) - free, open source, cross platform
 
 ## Lesson 1
-![Lesson 1](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-1/lesson-1.png "Lesson 1")
+![Lesson 1](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-3/lesson-1.png "Lesson 1")
 
 In this lesson we are going to create a game stage and study about basic HTML and CSS definitions.
     
@@ -58,6 +58,8 @@ In this lesson we are going to add a person to our game stage.
 - Move the person to the center  
 
 ## Lesson 3
+
+![Lesson 3](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-1/lesson-3.png "Lesson 3")
 
 In this lesson we are going to add an image for the game person.
 
