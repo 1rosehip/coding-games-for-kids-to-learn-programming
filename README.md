@@ -4,6 +4,7 @@
 - [Visual Studio Code Editor](https://code.visualstudio.com/) - free, open source, cross platform
 
 ## Lesson One
+![Lesson One](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-1/lesson-1.png "Lesson One")
     
 ### Parent
 - create a new folder called **lesson-1** and copy all content from [here](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/tree/master/lesson-1)
