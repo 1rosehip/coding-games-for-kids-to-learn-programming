@@ -1,11 +1,17 @@
 # Teaching kids programming through games development with HTML / CSS / JS
 
 This course is intended for kids 8+ years old that with help of their parents will learn how to program interactive browser games with CSS, HTML and JavaScript. It's recommended to check [code monkey](https://www.playcodemonkey.com/) and [scratch](https://scratch.mit.edu/) project before taking this course.
+
+## Credits
+- [Freepik Cats Collection Images](https://www.freepik.com/free-vector/coloured-cats-collection_1072063.htm) 
+
 ## Tools
 - [Visual Studio Code Editor](https://code.visualstudio.com/) - free, open source, cross platform
 
 ## Lesson 1
 ![Lesson 1](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-1/lesson-1.png "Lesson 1")
+
+In this lesson we are going to create a game stage and study about basic HTML and CSS definitions.
     
 ### Parent
 - create a new folder called **lesson-1** and copy all content from [here](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/tree/master/lesson-1)
@@ -31,7 +37,7 @@ and text blue
 ## Lesson 2
 ![Lesson 2](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-2/lesson-2.png "Lesson 2")
 
-Kid should create a person inside a game stage.
+In this lesson we are going to add a person to our game stage.
 
 ### Kid Tasks
 - Create a DIV inside the game stage
@@ -50,3 +56,16 @@ Kid should create a person inside a game stage.
 - Move the person to the left bottom corner
 - Move the person to tht left top corner
 - Move the person to the center  
+
+## Lesson 3
+
+In this lesson we are going to add an image for the game person.
+
+### Parent
+- Tell the kid about the [img tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) and add with the kid an image located [here](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/tree/master/img/cats) to the person's DIV.
+- Set image width to be 100px.
+- Refer to **lesson-3/index.html** folder as reference.
+
+### Kid Tasks
+- Ask the kid to change width and height of the person DIV to be big enough to contain the cat image.
+- Ask the kid to draw his / her own person in the favorite graphic editor and insert instead of the cat.
