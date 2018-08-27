@@ -59,7 +59,7 @@ In this lesson we are going to add a person to our game stage.
 
 ## Lesson 3
 
-![Lesson 3](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-3/lesson-3.png "Lesson 3")
+![Lesson 3](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-3/lesson-3.png?v=1 "Lesson 3")
 
 In this lesson we are going to add an image for the game person.
 
