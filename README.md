@@ -1,5 +1,6 @@
 # Teaching kids programming through games development with HTML / CSS / JS
 
+This course is intended for kids 8+ years old that with help of their parents will learn how to program interactive browser games with CSS, HTML and JavaScript. It's recommended to check [code monkey](https://www.playcodemonkey.com/) and [scratch](https://scratch.mit.edu/) project before taking this course.
 ## Tools
 - [Visual Studio Code Editor](https://code.visualstudio.com/) - free, open source, cross platform
 
@@ -28,8 +29,9 @@ and text blue
 - Ask the kids to create a game stage with colors and width / height as they want
 
 ## Lesson 2
-Kid should create a person inside a game stage.
 ![Lesson 2](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-2/lesson-2.png "Lesson 2")
+
+Kid should create a person inside a game stage.
 
 ### Kid Tasks
 - Create a DIV inside the game stage
