@@ -1,0 +1,50 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    font-family: "Times New Roman", Times, serif;
+    background: #fff;
+    font-size: 16px;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+.game-1{
+    border: 1px solid #000;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+    color: #ff0a33;
+    background: #eee;
+    position: relative;
+}
+
+.person{
+    border: 1px solid #bd67ff;
+    width: 100px;
+    height: 110px;
+    text-align: center;
+    color: #5b35ff;
+    background: #6fee89;
+
+    top: 10px;
+    left: 40px;
+    position: absolute;
+}
+
+.credits{
+    text-align: center;
+}
+
+.credits a{
+    color: #1d6882;
+}
+
+.cat{
+    top: 100px;
+    left: 100px;
+    position: absolute;
+}

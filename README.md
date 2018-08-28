@@ -98,5 +98,22 @@ In this lesson we are going to add some basic JavaScript to the stage.
 ### Kid Tasks
 - Get a new cat image from [here](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/tree/master/img/cats) or draw your own image.
 - Add this image to HTML using **img** tag.
-- Add **id** to this image. Select any name you want using small English letters and numbers without spaces.
+- Add a unique **id** to this image. Select any name you want using small English letters, numbers and dashes without spaces.
 - Add javascript that prints this image object to console using **document.getElementById**
+
+## Lesson 5
+
+In this lesson we'll check what is variables and how to use them.
+
+### Parent
+- Tell about variables in javascript and their usage.
+- Tell about [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) and [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const) and what is the difference
+- Get image cat object from the previous lesson and save it as const variable. Please refer to [main.js](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/blob/master/lesson-5/main.js) if needed.
+
+### Kid Tasks
+- Create a new **const** variable and put there any number. Print it in the console.
+- Create a new **const** variable and put there any text. Print it in the console.
+- Create a new variable named **num2** using **let**. Put there 10. 
+- Add 1 to this variable using the following code: **num2 = num2 + 1;**
+- Print **num2** and check the result value
+- Try other arithmetic operations like -, * and /.
