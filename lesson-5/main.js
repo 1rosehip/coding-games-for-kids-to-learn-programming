@@ -1,7 +1,7 @@
 (() => {
     'use strict';
 
-    const cat = document.getElementById('my-cat')
+    const cat = document.getElementById('my-cat');
     console.log(cat);
 
     const num1 = 1;

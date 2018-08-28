@@ -105,7 +105,7 @@ In this lesson we are going to add some basic JavaScript to the stage.
 
 ![Lesson 5](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-5/lesson-5.png "Lesson 5")
 
-In this lesson we'll check what is variables and how to use them.
+In this lesson we are going to learn about variables and how to use them.
 
 ### Parent
 - Tell about variables in javascript and their usage.
@@ -119,3 +119,28 @@ In this lesson we'll check what is variables and how to use them.
 - Add 1 to this variable using the following code: **num2 = num2 + 1;**
 - Print **num2** and check the result value
 - Try other arithmetic operations like -, * and /.
+
+## Lesson 6
+
+Let's add some action!
+
+### Parent
+- Tell the kid about [alert](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert) popup.
+- Add **alert('I like JavaScript!!!');** to the JS and show the kid the result popup.
+
+### Kid Tasks
+- Ask from kid to change the popup text to something else.
+- Ask from kid to create his / her own alert popups.
+
+### Parent
+- Tell about [events](https://en.wikipedia.org/wiki/Event_(computing)). Give event examples (mouse click, keyboard events, touch events etc.)
+- Let's add **onclick** event listener to our JS. Move alert statement to its body. Please refer to [main.js](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/blob/master/lesson-6/main.js) for example.
+- Ask from kid to click on the image and see the result.
+
+### Kid Tasks
+- Change the alert text to something else.
+- Get a new cat image from [here](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/tree/master/img/cats) or draw your own image.
+- Add this image to HTML using **img** tag.
+- Add a unique **id** to this image. Select any name you want using small English letters, numbers and dashes without spaces.
+- Get this new image by id using **document.getElementById** and save it in the **const** variable.
+- Copy **addEventListener** from another example and make it show the popup with some text on image click!
