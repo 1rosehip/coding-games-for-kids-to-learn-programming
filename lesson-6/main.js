@@ -1,5 +1,4 @@
 (() => {
-    'use strict';
 
     const cat = document.getElementById('my-cat');
 
