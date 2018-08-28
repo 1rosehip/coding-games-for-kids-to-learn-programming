@@ -122,6 +122,8 @@ In this lesson we are going to learn about variables and how to use them.
 
 ## Lesson 6
 
+![Lesson 6](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-6/lesson-6.png "Lesson 6")
+
 Let's add some action!
 
 ### Parent
