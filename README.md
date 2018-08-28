@@ -103,6 +103,8 @@ In this lesson we are going to add some basic JavaScript to the stage.
 
 ## Lesson 5
 
+![Lesson 5](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-5/lesson-5.png "Lesson 5")
+
 In this lesson we'll check what is variables and how to use them.
 
 ### Parent
