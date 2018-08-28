@@ -33,6 +33,7 @@ and text blue
 - Change height to be as page height
 - Change game title and its color to the favorite kid's game name and color
 - Ask the kids to create a game stage with colors and width / height as they want
+- Ask kid to create multiple DIVs if different colors and sizes.
 
 ## Lesson 2
 ![Lesson 2](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-2/lesson-2.png "Lesson 2")
@@ -71,3 +72,10 @@ In this lesson we are going to add an image for the game person.
 ### Kid Tasks
 - Ask the kid to change width and height of the person DIV to be big enough to contain the cat image.
 - Ask the kid to draw his / her own person in the favorite graphic editor and insert instead of the cat.
+- Remove the container DIV and add its classes to the image using class **cat**. Try to remove different styles and check how it influences the stage.
+
+## Lesson 4
+In this lesson we are going to add some basic JavaScript to the stage.
+
+### Parent
+- Tell the kid about the JavaScript (can change HTML dynamically). Shot him / her tag SCRIPT in HTML.
