@@ -75,6 +75,9 @@ In this lesson we are going to add an image for the game person.
 - Remove the container DIV and add its classes to the image using class **cat**. Try to remove different styles and check how it influences the stage.
 
 ## Lesson 4
+
+![Lesson 4](https://raw.githubusercontent.com/1rosehip/coding-games-for-kids-to-learn-programming/master/lesson-4/lesson-4.png "Lesson 4")
+
 In this lesson we are going to add some basic JavaScript to the stage.
 
 ### Parent
