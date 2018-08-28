@@ -79,3 +79,21 @@ In this lesson we are going to add some basic JavaScript to the stage.
 
 ### Parent
 - Tell the kid about the JavaScript (can change HTML dynamically). Shot him / her tag SCRIPT in HTML.
+- Open [main.js](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/blob/master/lesson-4/main.js) that is located at **lesson-4** folder. Tell the kid about **console.log**. Show him / her google developer toolbar.
+
+### Kid Tasks
+- Kid should change console.log text and find it in google developer toolbar.
+- Add another console logs.
+
+### Parent
+- Tell the kid about [HTML document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+- Add to the JS **console.log(document);** and show it to the kid in the console.
+- Tell that every HTML element may have a [unique id](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id).
+- Add **id="my-cat"** to the cat image.
+- Add **console.log(document.getElementById('my-cat'));** to the JavaScript and show the kid image object in the console
+
+### Kid Tasks
+- Get a new cat image from [here](https://github.com/1rosehip/coding-games-for-kids-to-learn-programming/tree/master/img/cats) or draw your own image.
+- Add this image to HTML using **img** tag.
+- Add **id** to this image. Select any name you want using small English letters and numbers without spaces.
+- Add javascript that prints this image object to console using **document.getElementById**
